@@ -18,6 +18,8 @@ public class PersoScript : MonoBehaviour
     public GameObject heart;
     public GameObject progressDisplay;
     public GameObject pressTouch;
+    public AudioClip PunchSnd;
+    public AudioClip RepairSnd;
 
     private List<GameObject> lifeDisplay = new List<GameObject>();
     public int repairProgression = 0;
@@ -28,6 +30,7 @@ public class PersoScript : MonoBehaviour
     private bool onCible = false;
     private bool repairMode = false;
     private Vector3 originalProgressScale;
+    private AudioSource aSource;
 
     // Start is called before the first frame update
     void Start()
@@ -40,6 +43,7 @@ public class PersoScript : MonoBehaviour
         }
         originalProgressScale = progressDisplay.transform.localScale;
         pressTouch.gameObject.SetActive(false);
+        aSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -66,6 +70,8 @@ public class PersoScript : MonoBehaviour
                     repairProgression++;
                     repairText.GetComponent<Animator>().SetTrigger("Decrease");
                     anim.SetBool("Repair", false);
+                    aSource.Stop();
+                    aSource.loop = false;
                 }
             }
             else
@@ -87,6 +93,7 @@ public class PersoScript : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 anim.SetTrigger("Attack1");
+                aSource.PlayOneShot(PunchSnd);
             }
             if (Input.GetKeyDown(KeyCode.UpArrow) && rb.velocity.y == 0)
             {
@@ -96,6 +103,9 @@ public class PersoScript : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.R) && onCible)
             {
                 repairMode = true;
+                aSource.clip = RepairSnd;
+                aSource.Play();
+                aSource.loop = true;
                 anim.SetBool("Repair", true);
                 repairText.GetComponent<Animator>().SetTrigger("Grow");
                 repairText.GetComponent<RepairScript>().length = repairLength + repairProgression * repairLengthDelta;
@@ -187,6 +197,8 @@ public class PersoScript : MonoBehaviour
         if (repairText.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("GrowText")){
             repairText.GetComponent<Animator>().SetTrigger("Decrease");
         }
+        aSource.Stop();
+        aSource.loop = false;
     }
 
     public void Erase()

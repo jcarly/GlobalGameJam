@@ -7,14 +7,17 @@ public class EnemyScript : MonoBehaviour
     public float speed = 3f;
     public GameObject player;
     public Vector2 hurtForce = new Vector2(300f, 300f);
+    public AudioClip hitSnd, explodeSnd;
     private Animator anim;
     private Rigidbody2D rb;
     private bool move = true;
+    private AudioSource aSource;
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        aSource = GetComponent<AudioSource>();
         if(transform.localPosition.x > 0)
         {
             Flip();
@@ -62,5 +65,14 @@ public class EnemyScript : MonoBehaviour
     {
         Debug.Log("Destroy Enemy");
         Destroy(this);
+    }
+
+    public void Hit()
+    {
+        aSource.PlayOneShot(hitSnd);
+    }
+    public void Explode()
+    {
+        aSource.PlayOneShot(explodeSnd);
     }
 }
