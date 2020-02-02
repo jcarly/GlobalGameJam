@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: ca735daa8b1404b40bee85c4f495a219
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7145933765705962332
+    second: Rat_Gore_01-Sheet_0
+  - first:
+      213: 7183406207033939437
+    second: Rat_Gore_01-Sheet_1
+  - first:
+      213: 7896642393501854482
+    second: Rat_Gore_01-Sheet_2
+  - first:
+      213: -8874689918448323219
+    second: Rat_Gore_01-Sheet_3
+  - first:
+      213: 3065329724015746511
+    second: Rat_Gore_01-Sheet_4
+  - first:
+      213: -3028345637580656573
+    second: Rat_Gore_01-Sheet_5
+  - first:
+      213: 6909767503734446163
+    second: Rat_Gore_01-Sheet_6
+  - first:
+      213: 4879302624581674467
+    second: Rat_Gore_01-Sheet_7
+  - first:
+      213: -3954013471866967809
+    second: Rat_Gore_01-Sheet_8
+  - first:
+      213: -5700145541192612162
+    second: Rat_Gore_01-Sheet_9
+  - first:
+      213: -2370560787067567846
+    second: Rat_Gore_01-Sheet_10
+  - first:
+      213: -8504723722033763224
+    second: Rat_Gore_01-Sheet_11
+  - first:
+      213: -2198420077546130825
+    second: Rat_Gore_01-Sheet_12
+  - first:
+      213: -9082106510575039881
+    second: Rat_Gore_01-Sheet_13
+  - first:
+      213: -7906351685847122460
+    second: Rat_Gore_01-Sheet_14
+  - first:
+      213: 582744643904318868
+    second: Rat_Gore_01-Sheet_15
+  - first:
+      213: -4282565216438482979
+    second: Rat_Gore_01-Sheet_16
+  - first:
+      213: 254605456635699897
+    second: Rat_Gore_01-Sheet_17
+  - first:
+      213: 2118520096960288140
+    second: Rat_Gore_01-Sheet_18
+  - first:
+      213: -3641456794519111948
+    second: Rat_Gore_01-Sheet_19
+  - first:
+      213: 5653654029735036291
+    second: Rat_Gore_01-Sheet_20
+  - first:
+      213: 7790656698413461848
+    second: Rat_Gore_01-Sheet_21
+  - first:
+      213: -6534003973253314973
+    second: Rat_Gore_01-Sheet_22
+  - first:
+      213: 2545296840344819952
+    second: Rat_Gore_01-Sheet_23
+  - first:
+      213: 6043749263144508462
+    second: Rat_Gore_01-Sheet_24
+  - first:
+      213: 1457526641470520279
+    second: Rat_Gore_01-Sheet_25
+  - first:
+      213: -7318378336003189280
+    second: Rat_Gore_01-Sheet_26
+  - first:
+      213: -4774380504722730517
+    second: Rat_Gore_01-Sheet_27
+  - first:
+      213: -6338431598169876499
+    second: Rat_Gore_01-Sheet_28
+  - first:
+      213: 4329856298191328441
+    second: Rat_Gore_01-Sheet_29
+  - first:
+      213: -7491520156619011970
+    second: Rat_Gore_01-Sheet_30
+  - first:
+      213: -3880072516009294848
+    second: Rat_Gore_01-Sheet_31
+  - first:
+      213: 5740724078955911076
+    second: Rat_Gore_01-Sheet_32
+  - first:
+      213: 6215209860561085742
+    second: Rat_Gore_01-Sheet_33
+  - first:
+      213: -8060585938669015070
+    second: Rat_Gore_01-Sheet_34
+  - first:
+      213: -7725509165429459534
+    second: Rat_Gore_01-Sheet_35
+  - first:
+      213: 3778184928705355678
+    second: Rat_Gore_01-Sheet_36
+  - first:
+      213: -63041860323859313
+    second: Rat_Gore_01-Sheet_37
+  - first:
+      213: -3815202986970571646
+    second: Rat_Gore_01-Sheet_38
+  - first:
+      213: -6952034620126083660
+    second: Rat_Gore_01-Sheet_39
+  - first:
+      213: 7170385594612346040
+    second: Rat_Gore_01-Sheet_40
+  - first:
+      213: 8961927678512569036
+    second: Rat_Gore_01-Sheet_41
+  - first:
+      213: 5094370285877915178
+    second: Rat_Gore_01-Sheet_42
+  - first:
+      213: 113336500511132334
+    second: Rat_Gore_01-Sheet_43
+  - first:
+      213: -1056077648424212589
+    second: Rat_Gore_01-Sheet_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 179
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac703c366ba664fb2ac882543091f2
+      internalID: -7145933765705962332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 179
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d3d63d67ff1544e821620dcff7ee08
+      internalID: 7183406207033939437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4
+        width: 195
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07574c3209695a840888a1dd43cfb41d
+      internalID: 7896642393501854482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 123
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5830b5fbb5e7042b222323fa46ded5
+      internalID: -8874689918448323219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 107
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c10d338314514ab7c9ff766ab8705
+      internalID: 3065329724015746511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 111
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a7d851ef2285c4685cc77cda232dc3
+      internalID: -3028345637580656573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 97
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c200790012621b47b31f1f3d30604eb
+      internalID: 6909767503734446163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 109
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91ef28904cebd47bfb6685bc1ab7ba
+      internalID: 4879302624581674467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 118
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7098003e3f96488eab322ef1ee084
+      internalID: -3954013471866967809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 121
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c05ef3b6ab8bc46974e38a0aacc0a0
+      internalID: -5700145541192612162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 103
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0cda1f8db733b45ba7c47c396b1b29
+      internalID: -2370560787067567846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 4
+        width: 149
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124cdf1c63a8e0f4bb3c14654191e66d
+      internalID: -8504723722033763224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 90
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a1ab25df4e9394982dbd792e939853
+      internalID: -2198420077546130825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 105
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa101b5f5c597845aabe96f05275ea0
+      internalID: -9082106510575039881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 103
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde189ee31e2b540babaf9f19fb045e
+      internalID: -7906351685847122460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 99
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c1dc933f4eac1418a4090c17118e34
+      internalID: 582744643904318868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 91
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22af16b42b2484eb6062568da4bd39
+      internalID: -4282565216438482979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 82
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05271eb9e2e060a46bdd5c59829fcc3d
+      internalID: 254605456635699897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 50
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255c02dad5d6d34aa15f7bd82bc0982
+      internalID: 2118520096960288140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 93
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70f0fd0df45934eade29d9a8da4ead
+      internalID: -3641456794519111948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 66
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b720a3017a8145bd92cbbd058b18d
+      internalID: 5653654029735036291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 80
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912e7915d767c0448718dd84375e546
+      internalID: 7790656698413461848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 62
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945f66a143cdac54482a3884db4a3a9c
+      internalID: -6534003973253314973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 84
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08074899f788dbf4eb47f4f6342a7e2b
+      internalID: 2545296840344819952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 76
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65c1c759a585e4a9be093182349acb
+      internalID: 6043749263144508462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 72
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233ea0336561024483d9f1c0ace71d2
+      internalID: 1457526641470520279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 75
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9e6f57105c534e91335a09a31fefa
+      internalID: -7318378336003189280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 60
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ed520148a6724198aa1451bc5cc92
+      internalID: -4774380504722730517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 77
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8eb2efc7b1be848bc6b6f5ca2ea333
+      internalID: -6338431598169876499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 55
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650db319123a90d40aad31d4fa55fcde
+      internalID: 4329856298191328441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 56
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b02dc3e19c2e43bfe8a4778d47eb0
+      internalID: -7491520156619011970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 65
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce1fafd19c986d4396450a8ba82c5ba
+      internalID: -3880072516009294848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 51
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d3e45f64bc646439cbf3f95d8064e3
+      internalID: 5740724078955911076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 67
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6165f9ca31768da448bea79ced9f2b1a
+      internalID: 6215209860561085742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 6
+        width: 142
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17447a2201824ba448bdcf7c2defb5d1
+      internalID: -8060585938669015070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 70
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed206c2f09bc04d8da53574d680f49
+      internalID: -7725509165429459534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 65
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a0e5b410e66f4f98417690c0c016a
+      internalID: 3778184928705355678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 47
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d204d2adc3c4143a0356af705d7a3a
+      internalID: -63041860323859313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 47
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3774ce3dc21f474d847f8c7810ad7f5
+      internalID: -3815202986970571646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 47
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782659c3e9a1be4daee09a853c7189c
+      internalID: -6952034620126083660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2
+        width: 94
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73396ab854377046876c9ea0a2de6e7
+      internalID: 7170385594612346040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 59
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d71d85863eb44cb0ccfa0b8d6b50e
+      internalID: 8961927678512569036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 56
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6e80cd66fd3244fb549724283e162c
+      internalID: 5094370285877915178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 58
+        width: 7
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7c160bf5c344b46906bfb5edc9a52e
+      internalID: 113336500511132334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rat_Gore_01-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1
+        width: 114
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae169f6df8c97054d95dde469dfe0d9e
+      internalID: -1056077648424212589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
