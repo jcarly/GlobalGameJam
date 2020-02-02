@@ -25,12 +25,18 @@ public class GameScript : MonoBehaviour
     public GameObject cloud1;
     public GameObject cloud2;
     public GameObject cloud3;
+    public GameObject cinematic;
+    public GameObject velo;
+    public GameObject littleCat;
+    public GameObject mainCamera;
+
     public float bigCloud1Speed = 1;
     public float bigCloud2Speed = 1;
     public float cloud1Speed = 1;
     public float cloud2Speed = 1;
     public float cloud3Speed = 1;
     private float timer = 0;
+    private bool intro = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -45,9 +51,9 @@ public class GameScript : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime;
-        if (timer > minEnemyDelay + maxEnemyDelay * (perso.GetComponent<PersoScript>().repairCompletion - perso.GetComponent<PersoScript>().repairProgression) / perso.GetComponent<PersoScript>().repairCompletion)
+        if (!intro && timer > minEnemyDelay + maxEnemyDelay * (perso.GetComponent<PersoScript>().repairCompletion - perso.GetComponent<PersoScript>().repairProgression) / perso.GetComponent<PersoScript>().repairCompletion)
         {
-            Instantiate(enemy, new Vector3((Random.value > 0.5 ? 7.5f : -7.5f), (Random.value > 0.5 ? 2f : -2f), 0f), Quaternion.identity);
+            Instantiate(enemy, new Vector3((Random.value > 0.5 ? 7.5f : -7.5f), (Random.value > 0.5 ? 2f : -2f), 0f), Quaternion.identity).gameObject.SetActive(true);
             timer = 0;
         }
         if (Input.GetKeyDown(KeyCode.Escape) || (Time.timeScale != 0 &&
@@ -146,5 +152,14 @@ public class GameScript : MonoBehaviour
         }
         Time.timeScale = 1;
         beginMenu.gameObject.SetActive(false);
+    }
+
+    public void EndCinematic()
+    {
+        intro = false;
+        perso.gameObject.SetActive(true);
+        velo.gameObject.SetActive(true);
+        cinematic.gameObject.SetActive(false);
+        mainCamera.gameObject.SetActive(true);
     }
 }
