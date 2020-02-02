@@ -88,7 +88,7 @@ public class PersoScript : MonoBehaviour
             {
                 anim.SetTrigger("Attack1");
             }
-            if (Input.GetKeyDown(KeyCode.UpArrow) && rb.velocity.y < 0.1)
+            if (Input.GetKeyDown(KeyCode.UpArrow) && rb.velocity.y == 0)
             {
                 rb.AddForce(new Vector2(0, jumpForce));
                 anim.SetTrigger("Jump");

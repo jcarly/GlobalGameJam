@@ -20,6 +20,16 @@ public class GameScript : MonoBehaviour
     public GameObject winMenu;
     public GameObject looseMenu;
     public GameObject beginMenu;
+    public GameObject bigCloud1;
+    public GameObject bigCloud2;
+    public GameObject cloud1;
+    public GameObject cloud2;
+    public GameObject cloud3;
+    public float bigCloud1Speed = 1;
+    public float bigCloud2Speed = 1;
+    public float cloud1Speed = 1;
+    public float cloud2Speed = 1;
+    public float cloud3Speed = 1;
     private float timer = 0;
     // Start is called before the first frame update
     void Start()
@@ -28,6 +38,7 @@ public class GameScript : MonoBehaviour
         winMenu.gameObject.SetActive(false);
         looseMenu.gameObject.SetActive(false);
         Time.timeScale = 0;
+
     }
 
     // Update is called once per frame
@@ -39,11 +50,36 @@ public class GameScript : MonoBehaviour
             Instantiate(enemy, new Vector3((Random.value > 0.5 ? 7.5f : -7.5f), (Random.value > 0.5 ? 2f : -2f), 0f), Quaternion.identity);
             timer = 0;
         }
-        if (Input.GetKeyDown(KeyCode.Escape) || 
-            perso.GetComponent<PersoScript>().repairProgression >= perso.GetComponent<PersoScript>().repairCompletion ||
-            perso.GetComponent<PersoScript>().life <= 0)
+        if (Input.GetKeyDown(KeyCode.Escape) || (Time.timeScale != 0 &&
+            (perso.GetComponent<PersoScript>().repairProgression >= perso.GetComponent<PersoScript>().repairCompletion ||
+            perso.GetComponent<PersoScript>().life <= 0)))
         {
             Pause();
+        }
+        bigCloud1.transform.Translate(Vector2.right * bigCloud1Speed * Time.deltaTime);
+        bigCloud2.transform.Translate(Vector2.right * bigCloud2Speed * Time.deltaTime);
+        cloud1.transform.Translate(Vector2.right * cloud1Speed * Time.deltaTime);
+        cloud2.transform.Translate(Vector2.right * cloud2Speed * Time.deltaTime);
+        cloud3.transform.Translate(Vector2.right * cloud3Speed * Time.deltaTime);
+        if(bigCloud1.transform.localPosition.x > 12 || bigCloud1.transform.localPosition.x < -12)
+        {
+            bigCloud1.transform.localPosition = new Vector2(bigCloud1Speed / Mathf.Abs(bigCloud1Speed) * -12, bigCloud1.transform.localPosition.y);
+        }
+        if (bigCloud2.transform.localPosition.x > 12 || bigCloud2.transform.localPosition.x < -12)
+        {
+            bigCloud2.transform.localPosition = new Vector2(bigCloud2Speed / Mathf.Abs(bigCloud2Speed) * -12, bigCloud2.transform.localPosition.y);
+        }
+        if (cloud1.transform.localPosition.x > 10 || cloud1.transform.localPosition.x < -10)
+        {
+            cloud1.transform.localPosition = new Vector2(cloud1Speed / Mathf.Abs(cloud1Speed) * -10, cloud1.transform.localPosition.y);
+        }
+        if (cloud2.transform.localPosition.x > 10 || cloud2.transform.localPosition.x < -10)
+        {
+            cloud2.transform.localPosition = new Vector2(cloud2Speed / Mathf.Abs(cloud2Speed) * -10, cloud2.transform.localPosition.y);
+        }
+        if (cloud3.transform.localPosition.x > 10 || cloud3.transform.localPosition.x < -10)
+        {
+            cloud3.transform.localPosition = new Vector2(cloud2Speed / Mathf.Abs(cloud3Speed) * -10, cloud3.transform.localPosition.y);
         }
     }
 
